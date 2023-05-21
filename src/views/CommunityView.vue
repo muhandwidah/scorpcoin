@@ -14,7 +14,7 @@
                     <v-dialog v-model="dialog" max-width="290">
                         <v-card>
                             <v-card-title>
-                                <h2 id="dialog-title">Join The Community</h2>
+                                <h3 id="dialog-title">Join The Community</h3>
                             </v-card-title>
                             <v-col align="center" justify="center">
                                 <img class="nft-card-image" src="../assets/images/nft-card-template-single.png">
