@@ -13,7 +13,7 @@
                         </template>
                         <div class="py-4">
                             <h2 id="timeline-title">Proceeds Goal</h2>
-                            <div>
+                            <div class="timeline-text-container">
                                 <p class="timeline-text">
                                     Proceeds from the sale of SCRP will also be used to fund habitat and ecosystem reclamation projects.<br><br> The harvesting of the venom is done in a sustainable manner that ensures the preservation of the natural environment, and expansion of the species. <br><br> By investing in SCRP, investors will be supporting efforts to preserve the natural world and protect endangered species.
                                 </p>
@@ -25,7 +25,7 @@
                         </template>
                         <div class="py-4">
                             <h2 id="timeline-title">Social Goal</h2>
-                            <div>
+                            <div class="timeline-text-container">
                                 <p class="timeline-text">
                                     Our social goal at SCRP is to support emerging economies, benefit community enrichment programs, and promote social responsibility in 3rd world countries. <br><br> The company will partner with local organizations to provide funding for education, healthcare, and other initiatives that benefit the community. <br><br> By investing in $SCRP, investors will be supporting a company that is committed to making a positive impact in the world.
                                 </p>
@@ -37,7 +37,7 @@
                         </template>
                         <div class="py-4">
                             <h2 id="timeline-title">Overall Goal</h2>
-                            <div>
+                            <div class="timeline-text-container">
                                 <p class="timeline-text">
                                     Overall, SCRP is a unique and innovative cryptocurrency that combines the stability of a physical commodity with a commitment to environmental and social responsibility. <br><br> By investing in SCRP, investors have an opportunity to support a company that is working to make a positive impact on the world while also potentially realizing significant financial returns.
                                 </p>
@@ -160,7 +160,6 @@ export default {
 </script>
 
 <style>
-
 #whitepaper-text{
     font-family: 'Staatliches', cursive;
 }
@@ -172,9 +171,9 @@ export default {
     font-family: 'Staatliches', cursive;
 }
 .commodity-card{
-    width: 450px;
+    width: 400px;
     aspect-ratio: 4/3;
-    max-width: 450px;
+    max-width: 400px;
     margin: 1.5%;
 }
 .commodity-card-title{

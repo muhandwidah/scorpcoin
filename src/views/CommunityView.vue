@@ -82,8 +82,8 @@ h2{
 }
 .nft-card-image{
     aspect-ratio: 1/1;
-    width: 60%;
-    max-width: 25vw;
+    width: 70%;
+    max-width: 30vw;
     height: auto;
 }
 .nft-text-container{

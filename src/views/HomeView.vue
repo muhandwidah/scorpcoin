@@ -2,6 +2,8 @@
   <div>
     <greetingComp id="greetingComp"/>
     <v-divider id="divider"></v-divider>
+    <chartComp id="chartComp"/>
+    <v-divider id="divider"></v-divider>
     <secondComp/>
     <v-divider id="divider"></v-divider>
     <thirdComp/>
@@ -14,6 +16,7 @@
   import greetingComp from '../components/greetingComp.vue'
   import secondComp from '../components/secondComp.vue'
   import thirdComp from '../components/thirdComp.vue'
+  import chartComp from '../components/chartComp.vue'
 
   export default Vue.extend({
     name: 'HomeView',
@@ -22,10 +25,14 @@
       greetingComp,
       secondComp,
       thirdComp,
+      chartComp,
     },
   })
 </script>
 <style scoped>
+#chartComp{
+  width: 100%;
+}
 #greetingComp{
   margin-top: 5%;
 }

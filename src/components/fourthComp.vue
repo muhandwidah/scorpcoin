@@ -40,6 +40,8 @@ export default {
     aspect-ratio: 4/3;
     height: auto;
     width: 100%;
+    max-width: 325px;
+    height: auto;
 }
 .innerButton{
     margin: 10px;
@@ -47,20 +49,9 @@ export default {
 .innerText{
     color: white;
 }
-.leftContainer{
-    width: 50%;
-    height: 100%;
-    left: 0;
-}
-.rightContainer{
-    width: 50%;
-    height: 100%;
-    right: 0;
-}
 .innerContainer{
     margin-top: 25%;
     margin-bottom: 25%;
     padding: 5%;
-    max-width: 550px;
 }
 </style>
