@@ -2,7 +2,7 @@
         <v-row class="mainContainer" align="center" justify="center" >
             <div align="left" justify="center" class="text-Container">
                 <v-col align="center" justify="center">
-                    <h3 class="inner-item1">invest in a currency backed by an extraordinary natural resource - blue scorpion venom. By tying digital assets to this life-changing commodity, we offer a stable investment opportunity that supports our mission to promote health, environmental conservation, and social responsibility.</h3>
+                    <h3 class="inner-item1">invest in a currency backed by an extraordinary natural resource - blue scorpion venom. <br><br> By tying digital assets to this life-changing commodity, we offer a stable investment opportunity that supports our mission to promote health, environmental conservation, and social responsibility.</h3>
                     <v-col align="center" justify="center" class="btnContainer">
                         <v-btn href="/community" block id="getStartedBtn2" class="innerBtn" elevation="0" color="black"><a id="getStartedBtnText2">Get started with scrp</a></v-btn>
                     </v-col>
@@ -29,7 +29,7 @@ export default {
     font-family: 'Staatliches', cursive;
     width: 22rem;
     margin: 2.5%;
-    text-align: left;
+    text-align: center;
 }
 .text-Container{
     text-align: left;

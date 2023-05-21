@@ -10,7 +10,7 @@
                 <h1 class="inner-items">Harness the Power of Blue Scorpion Venom</h1>
             </div>
             <div class="textContainer" id="textContainer2">
-                <h3 class="inner-items">A digital asset anchored by the value of polarized blue scorpion venom, represents a unique investment in the future of peptide-based treatments. Experience potential appreciation, gain access to cutting-edge therapies, and contribute to global conservation efforts with every coin held.</h3>
+                <h3 class="inner-items"><br>A digital asset anchored by the value of polarized blue scorpion venom, represents a unique investment in the future of peptide-based treatments. <br><br> Experience potential appreciation, gain access to cutting-edge therapies, and contribute to global conservation efforts with every coin held.<br></h3>
             </div>
             <div class="btnContainer">
                 <v-btn href="/community" id="getStartedBtn" class="innerBtn" elevation="0" color="black"><a id="getStartedBtnText">Get started with scrp</a></v-btn>
