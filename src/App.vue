@@ -36,4 +36,7 @@ export default Vue.extend({
   font-style: SemiCondensed;
   font-family: Bank Sans EF CY, serif;
 }
+#mainApp{
+  background: white;
+}
 </style>
